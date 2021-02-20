@@ -1,5 +1,7 @@
+<div align ="center">
 # web application using libraries GSAP and TILT
 # animations and responsibility
+ </div>
 ![screens](screen.png)
 <div align ="center">
  <h1>🚀effect Spider-man</h1>
