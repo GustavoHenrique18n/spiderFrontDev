@@ -6,6 +6,6 @@
 https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js
 
 #parallax tilt effect for jQuery over spider-man.
- 
+ ![effect](tilt.js.gif)
 
  
