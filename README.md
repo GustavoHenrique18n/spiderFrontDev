@@ -2,13 +2,8 @@
 # web application using libraries GSAP and TILT
 # animations and responsibility
 ![screens](screen.png)
+# 🚀effect Spider-man
 ![effect](tilt.js.gif)
-<div align ="center">
- <h1>🚀effect Spider-man</h1>
- </div>
-
-
- 
 
 ```bash
 
