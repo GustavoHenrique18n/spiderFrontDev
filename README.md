@@ -3,8 +3,9 @@
 ![screens](screen.png)
 <div align ="center">
  <h1>🚀effect Spider-man</h1>
+ ![effect](tilt.js.gif)
  </div>
-![effect](tilt.js.gif)
+ 
 
 ```bash
 
