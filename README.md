@@ -1,16 +1,10 @@
  
-# 👷Tools
-  
- - SCSS
- - HTML5 
- 
-
  <p align="center">
   <p>🚀Spider-Man🚀</p>
 </p>
 
  <p align="center">
-  <img alt="SPIDERMAN" src="./screen.png" width="35%">
+  <img alt="SPIDERMAN" src="./screen.png" width="100%">
 </p>
 
  ## 🚀 Tecnologias
