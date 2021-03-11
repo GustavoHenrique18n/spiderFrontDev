@@ -1,32 +1,24 @@
 
   <h1 align="center">
-       🚀OIII🚀 
+       🚀Spider-Man🚀 
 </h1>
 
  <p align="center">
   <img alt="SPIDERMAN" src="./screen.png" width="100%">
 </p>
 
- ## 🚀 Tecnologias
+ ## 🔧 Tools
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project has been developed with the following technologies:
 
 - HTML
-- CSS
-- JavaScript
-
-## 💻 Projeto
-
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
-
+- SCSS
+- 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
+check out it in this link [desse link](https://www.figma.com/file/zm3fLTS6fk4gaYzaCWhMaw/Spider-man). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
  
-
-#parallax tilt effect for jQuery over spider-man.
 
  
  
