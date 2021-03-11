@@ -16,7 +16,7 @@ This project has been developed with the following technologies:
 
 ## 🔖 Layout
 
-check out it in this link [desse link](https://www.figma.com/file/zm3fLTS6fk4gaYzaCWhMaw/Spider-man). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+check out it in this link [layout](https://www.figma.com/file/zm3fLTS6fk4gaYzaCWhMaw/Spider-man). Account is required at [Figma](https://figma.com) to access it.
 
  
 
