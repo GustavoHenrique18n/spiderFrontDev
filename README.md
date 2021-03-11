@@ -1,20 +1,38 @@
  
-# web application using libraries GSAP and TILT
-# animations and responsibility
-![screens](screen.png)
-# 🚀effect Spider-man
-![effect](tilt.js.gif)
+# 👷Tools
+  
+ - SCSS
+ - HTML5 
+ 
 
-```bash
+ <p align="center">
+  <p>🚀Spider-Man🚀</p>
+</p>
 
-# GSAP CDN TWEEN animation works version 2.x
-https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js
+ <p align="center">
+  <img alt="SPIDERMAN" src="./screen.png" width="35%">
+</p>
+
+ ## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+
+ 
 
 #parallax tilt effect for jQuery over spider-man.
 
-$('.js-tilt').tilt({
-    glare: true,
-    maxGlare: .5 
-})
-
+ 
  
