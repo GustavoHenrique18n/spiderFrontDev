@@ -1,6 +1,6 @@
 
   <h1 align="center">
-       🚀Spider-Man🚀 
+       🚀 Spider-Man 🚀 
 </h1>
 
  <p align="center">
