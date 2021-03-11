@@ -1,6 +1,6 @@
 
   <h1 align="center">
-  <🚀OIII🚀  width="220px" />
+       🚀OIII🚀 
 </h1>
 
  <p align="center">
